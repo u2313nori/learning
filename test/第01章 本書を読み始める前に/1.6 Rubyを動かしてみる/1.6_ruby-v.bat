@@ -1,0 +1,3 @@
+ruby -v
+
+pause
