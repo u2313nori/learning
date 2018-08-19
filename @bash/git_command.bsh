@@ -1,0 +1,9 @@
+cd learning-Ruby
+
+git pull
+
+git status
+
+git add -A
+git commit -m "a"
+git push
